@@ -1,0 +1,255 @@
+{
+    "name": "Kuromii",
+    "description": "Kuromi Theme (For Femboys)",
+    "version": "1",
+    "authors": [
+      {
+        "name": "YuhMuva#1799",
+        "id": "359111312418275349"
+      }
+    ],
+    "spec": 2,
+    "semanticColors": {
+      "CHAT_BACKGROUND": [
+        "#2F2A42",
+        "#2F2A42"
+      ],
+      "HEADER_PRIMARY": [
+        "#D59BC5",
+        "#181622"
+      ],
+      "HEADER_SECONDARY": [
+        "#D382BD",
+        "#181622"
+      ],
+      "TEXT_NORMAL": [
+        "#FFDBF1",
+        "#181622"
+      ],
+      "TEXT_MUTED": [
+        "#FAE89B",
+        "#181622"
+      ],
+      "INTERACTIVE_NORMAL": [
+        "#D382BD",
+        "#D382BD"
+      ],
+      "INTERACTIVE_HOVER": [
+        "#423567",
+        "#423567"
+      ],
+      "INTERACTIVE_ACTIVE": [
+        "#D59BC5",
+        "#D59BC5"
+      ],
+      "INTERACTIVE_MUTED": [
+        "#6F5B94",
+        "#6F5B94"
+      ],
+      "BACKGROUND_PRIMARY": [
+        "#474063",
+        "#474063"
+      ],
+      "BACKGROUND_SECONDARY": [
+        "#474063",
+        "#474063"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+        "#423567",
+        "#423567"
+      ],
+      "BACKGROUND_TERTIARY": [
+        "#423567",
+        "#423567"
+      ],
+      "BACKGROUND_ACCENT": [
+        "#6F5B94",
+        "#6F5B94"
+      ],
+      "BACKGROUND_FLOATING": [
+        "#6F5B94",
+        "#6F5B94"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+        "#423567",
+        "#423567"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+        "#423567",
+        "#423567"
+      ],
+      "BACKGROUND_NESTED_FLOATING": [
+        "#423567",
+        "#423567"
+      ],
+      "BACKGROUND_MESSAGE_HOVER": [
+        "#6F5B94",
+        "#6F5B94"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+        "#6F5B94",
+        "#6F5B94"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+        "#6F5B94",
+        "#6F5B94"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+        "#6F5B94",
+        "#6F5B94"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+        "#6F5B94",
+        "#6F5B94"
+      ],
+      "BACKGROUND_MENTIONED": [
+        "#F2BBDC",
+        "#F2BBDC"
+      ],
+      "BACKGROUND_MENTIONED_HOVER": [
+        "#FAE89B",
+        "#FAE89B"
+      ],
+      "SCROLLBAR_THIN_THUMB": [
+        "transparent",
+        "#E892C6"
+      ],
+      "SCROLLBAR_THIN_TRACK": [
+        "transparent",
+        "#E892C6"
+      ],
+      "SCROLLBAR_AUTO_THUMB": [
+        "transparent",
+        "#E892C6"
+      ],
+      "SCROLLBAR_AUTO_TRACK": [
+        "#E892C6",
+        "#F7FDFC"
+      ],
+      "CHANNELTEXTAREA_BACKGROUND": [
+        "#F2BBDC",
+        "#F2BBDC"
+      ],
+      "CHANNELS_DEFAULT": [
+        "#F2BBDC",
+        "#F2BBDC"
+      ],
+      "TEXT_LINK": [
+        "#FAE89B",
+        "#181622"
+      ],
+      "KEYBOARD": [
+        "#423567",
+        "#423567"
+      ]
+    },
+    "rawColors": {
+      "PRIMARY_100": "#B397DB",
+      "PRIMARY_200": "#B397DB",
+      "PRIMARY_300": "#B397DB",
+      "PRIMARY_360": "#B397DB",
+      "PRIMARY_400": "#D59BC5",
+      "PRIMARY_500": "#D59BC5",
+      "PRIMARY_600": "#423567",
+      "PRIMARY_630": "#D59BC5",
+      "PRIMARY_700": "#FFDBF1",
+      "PRIMARY_800": "#6F5B94",
+      "BRAND_260": "#FFDBF1",
+      "BRAND_300": "#FFDBF1",
+      "BRAND_330": "#FFDBF1",
+      "BRAND_345": "#FFDBF1",
+      "BRAND_360": "#D59BC5",
+      "BRAND_400": "#FFDBF1",
+      "BRAND_430": "#D59BC5",
+      "BRAND_460": "#D59BC5",
+      "BRAND_500": "#E892C6",
+      "BRAND_530": "#E892C6",
+      "BRAND_560": "#E892C6",
+      "BRAND_600": "#E892C6",
+      "BRAND_630": "#FFDBF1",
+      "BRAND_660": "#6F5B94",
+      "BRAND_700": "#6F5B94",
+      "RED_260": "#F5DFEF",
+      "RED_300": "#F5DFEF",
+      "RED_330": "#F5DFEF",
+      "RED_345": "#F5DFEF",
+      "RED_360": "#F2BBDC",
+      "RED_400": "#F2BBDC",
+      "RED_430": "#F2BBDC",
+      "RED_460": "#F2BBDC",
+      "RED_500": "#E892C6",
+      "RED_530": "#E892C6",
+      "RED_560": "#E892C6",
+      "RED_600": "#E892C6",
+      "RED_630": "#E06CA0",
+      "RED_660": "#E06CA0",
+      "RED_700": "#E06CA0",
+      "ORANGE_260": "#D59BC5",
+      "ORANGE_300": "#D59BC5",
+      "ORANGE_330": "#D59BC5",
+      "ORANGE_345": "#D59BC5",
+      "ORANGE_360": "#D59BC5",
+      "ORANGE_400": "#D59BC5",
+      "ORANGE_430": "#D59BC5",
+      "ORANGE_460": "#D59BC5",
+      "ORANGE_500": "#E892C6",
+      "ORANGE_530": "#E892C6",
+      "ORANGE_560": "#E892C6",
+      "ORANGE_600": "#E892C6",
+      "ORANGE_630": "#D382BD",
+      "ORANGE_660": "#D382BD",
+      "ORANGE_700": "#D382BD",
+      "YELLOW_260": "#D59BC5",
+      "YELLOW_300": "#D59BC5",
+      "YELLOW_330": "#D59BC5",
+      "YELLOW_345": "#D59BC5",
+      "YELLOW_360": "#D59BC5",
+      "YELLOW_400": "#D59BC5",
+      "YELLOW_430": "#D59BC5",
+      "YELLOW_460": "#D59BC5",
+      "YELLOW_500": "#E892C6",
+      "YELLOW_530": "#E892C6",
+      "YELLOW_560": "#E892C6",
+      "YELLOW_600": "#E892C6",
+      "YELLOW_630": "#D382BD",
+      "YELLOW_660": "#D382BD",
+      "YELLOW_700": "#D382BD",
+      "GREEN_260": "#F5DFEF",
+      "GREEN_300": "#F5DFEF",
+      "GREEN_330": "#F5DFEF",
+      "GREEN_345": "#F5DFEF",
+      "GREEN_360": "#F2BBDC",
+      "GREEN_400": "#F2BBDC",
+      "GREEN_430": "#F2BBDC",
+      "GREEN_460": "#F2BBDC",
+      "GREEN_500": "#E892C6",
+      "GREEN_530": "#E892C6",
+      "GREEN_560": "#E892C6",
+      "GREEN_600": "#E892C6",
+      "GREEN_630": "#E06CA0",
+      "GREEN_660": "#E06CA0",
+      "GREEN_700": "#E06CA0",
+      "BLUE_260": "#F5DFEF",
+      "BLUE_300": "#F5DFEF",
+      "BLUE_330": "#F5DFEF",
+      "BLUE_345": "#F5DFEF",
+      "BLUE_360": "#F2BBDC",
+      "BLUE_400": "#F2BBDC",
+      "BLUE_430": "#F2BBDC",
+      "BLUE_460": "#F2BBDC",
+      "BLUE_500": "#E892C6",
+      "BLUE_530": "#E892C6",
+      "BLUE_560": "#E892C6",
+      "BLUE_600": "#E892C6",
+      "BLUE_630": "#E06CA0",
+      "BLUE_660": "#E06CA0",
+      "BLUE_700": "#E06CA0"
+    },
+    "background": {
+      "blur": 0.5,
+      "url": "https://media.discordapp.net/attachments/857863120970317867/1089391486484877432/1E250865-1F39-4C9D-A510-9AB32231FF65.jpg?ex=65ed29e2&is=65dab4e2&hm=1d0dd68e287a8199e94b0edd01177d9cc34e95956b566d5d723890e500e007e2&=&format=webp&width=281&height=608",
+      "alpha": 1.0
+    },
+    "color": "#fdc0d2"
+  }
+  
